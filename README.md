@@ -1,128 +1,256 @@
-# Welcome to Ritesh Raj's Profile! 👋
+# <div align="center">🌌 **RITESH RAJ** 🌌</div>
 
-Hey there! I'm Ritesh, a passionate Robotics/Enginerrng from Rochester Hills. Welcome to my GitHub profile, where I love to showcase my projects and contribute to the open-source community.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshrajas" alt="riteshrajas" /> </p>
+<div align="center">
 
-## 🚀 About Me
-- 🎓 I'm currently studying at Rochester High School.
-- 🌐 [My Website](https://pyintel.vercel.app)
-- 📫 How to reach me: code.ritesh@gmail.com
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=00D4FF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Ritesh+%F0%9F%91%8B;Robotics+%26+AI+Engineer;Building+Tomorrow's+Tech)
 
-## 🛠️ Skills
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riteshrajas&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/riteshrajas?style=for-the-badge&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Robotics-red?style=for-the-badge" alt="Focus" />
+</p>
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Frameworks: React, Node.js, Express.js
-- Tools: Git, GitHub, VS Code, Jupyter Notebook, Google Colab, Kaggle, Heroku, Vercel, Netlify, Firebase, 
-- Cloud: GCP, Azure
-- Databases: MongoDB, MySQL, SQLite, Firebase Firestore
-- Machine Learning: TensorFlow, Keras, Scikit-learn, OpenCV, Pandas, NumPy, Matplotlib, Seaborn
-- AI: Natural Language Processing, Computer Vision, Reinforcement Learning
-- Algorithms: Data Structures, Sorting, Searching, Dynamic Programming, Greedy Algorithms, Graph Algorithms
-- Web Development: HTML, CSS, Bootstrap, Materialize CSS, SASS, JavaScript
-- Mobile Development: React Native, Flutter, Kotlin
-- Design: Figma, Adobe XD, Canva
-- Operating Systems: Windows, Linux
-- IDEs: VS Code, PyCharm, IntelliJ IDEA, Android Studio, WebStorm, IntelliJ IDEA
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=42&fontAlignY=32&desc=Where%20Code%20Meets%20Innovation&descAlignY=51&descAlign=50" />
 
-## 🔧 Tools & Technologies
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-379C88?style=flat-square&logo=seaborn&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-EE6E73?style=flat-square&logo=materialize-css&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
-![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+
+<img align="right" alt="Coding GIF" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```javascript
+const ritesh = {
+    name: "Ritesh Raj",
+    location: "Rochester Hills, Michigan 🏡",
+    education: "Rochester High School 🎓",
+    age: "17",
+    currentRole: "Student & Developer",
+    
+    passions: [
+        "🤖 Artificial Intelligence",
+        "🔬 Machine Learning", 
+        "⚡ Robotics Engineering",
+        "🌐 Full-Stack Development"
+    ],
+    
+    currentlyLearning: [
+        "Advanced Computer Vision",
+        "Reinforcement Learning",
+        "Neural Network Architectures"
+    ],
+    
+    goals2024: [
+        "Contribute to 10+ Open Source projects",
+        "Build an AI-powered robot",
+        "Launch my startup idea"
+    ],
+    
+    funFact: "I dream in Python and debug with coffee ☕"
+};
+
+console.log("Let's build the future together! 🚀");
+```
+
+<br clear="right"/>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **My Tech Universe**
+
+<div align="center">
+
+### 🔥 **Core Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,typescript,kotlin" />
+</p>
+
+### 🌐 **Web Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,bootstrap,sass" />
+</p>
+
+### 🤖 **AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 📱 **Mobile & Cross-Platform**
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,react" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,azure,firebase,vercel,netlify,docker,git,github" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+</p>
+
+### 🛠️ **Development Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,figma,linux,windows" />
+</p>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riteshrajas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshrajas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshrajas&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshrajas&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Showcase Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 **Project Pyintel**
+[![Pyintel](https://img.shields.io/badge/🚀%20Live%20Demo-FF6B6B?style=for-the-badge)](https://github.com/riteshrajas/project-1)
+
+**Revolutionary IoT Intelligence Hub**
+
+🎯 **What it does:**
+- 🤖 AI-powered device orchestration with **Llama 3 7B**
+- 🔗 Seamless MQTT protocol communication
+- ⚡ Real-time smart home automation
+- 📱 Cross-platform control interface
+
+**Tech Stack:** `Python` `MQTT` `AI/ML` `IoT`
+
+</td>
+<td width="50%">
+
+### 📚 **Programmer's Handbook**
+[![Handbook](https://img.shields.io/badge/📖%20Explore-4ECDC4?style=for-the-badge)](https://github.com/riteshrajas/project-2)
+
+**Ultimate Developer's Bible**
+
+📖 **What it includes:**
+- 💻 Complete programming language guides
+- 🧠 Data Structures & Algorithms mastery
+- 🔍 Advanced search functionality
+- 📱 Mobile-responsive design
+
+**Tech Stack:** `Next.js` `Nextra` `Markdown` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> **Achievement Unlocked**
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=riteshrajas&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🎯 **2024 Goals Progress**
+```
+🤖 AI Projects Built        ████████░░ 80%
+📚 Open Source Contributions ██████░░░░ 60%  
+🚀 Skills Mastered          ███████░░░ 70%
+🌟 Community Impact         █████░░░░░ 50%
+```
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> **Learning Journey**
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🧠 Current Focus] --> B[🤖 Deep Learning]
+    A --> C[👁️ Computer Vision] 
+    A --> D[🎯 Reinforcement Learning]
+    
+    B --> E[Neural Networks]
+    B --> F[Transformers]
+    
+    C --> G[Object Detection]
+    C --> H[Image Segmentation]
+    
+    D --> I[Q-Learning]
+    D --> J[Policy Gradients]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+```
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect & Collaborate**
+
+<div align="center">
+
+### 🌟 **Ready to Build Something Epic Together?**
+
+<p>
+<a href="https://www.linkedin.com/in/riteshrajas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/riteshrajas"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/riteshrajas/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:code.ritesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://pyintel.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+### 💭 **Daily Inspiration**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+---
 
 
-## 🌱 Currently Learning
+### 📈 **This Week I Spent My Time On**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-I'm currently diving deeper into Machine Learning and Artificial Intelligence. Excited to enhance my skills in Reinforcement Learning and Computer Vision!
+</div>
 
-## 📈 GitHub Stats
+---
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=riteshrajas&show_icons=true&hide=contribs,prs)](https://github.com/riteshrajas)
+<div align="center">
 
-## 🌟 Featured Projects
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=75&desc=Star%20⭐%20my%20repos%20if%20you%20find%20them%20interesting!&descAlignY=51&descAlign=50" />
 
-Here are some projects I'm proud of:
+### 💫 *"Code is not just my profession, it's my passion. Let's create magic together!"*
 
-### Project Pyintel
+**🚀 Always open to:**
+- 🤝 Collaborating on innovative projects
+- 💡 Discussing cutting-edge technology
+- 🌟 Mentoring fellow developers
+- 🔬 Research opportunities in AI/ML
 
-[![Project 1](https://img.shields.io/badge/-Check%20it%20out-success?style=for-the-badge)](https://github.com/riteshrajas/project-1)
-
-Project Pyintel is a Group of Devices, that can interact with each other and can be controlled by a single device. It is a project that is based on the concept of IoT.
-It uses the concept of MQTT Protocol to communicate between the devices. It uses Llama 3 7B under the hood to control the devices.  
-
-### Programmer's Handbook
-
-[![Project 2](https://img.shields.io/badge/-Check%20it%20out-blue?style=for-the-badge)](https://github.com/riteshrajas/project-2)
-
-This Project is a Handbook for Programmers. It contains all the important concepts of programming languages like Python, JavaScript, Java, C++, etc. It also contains the concepts of Data Structures and Algorithms. It is a one-stop solution for all the programmers out there. 
-Programmer's Handbook is a project that is built using Next.js with Nextra. It is a static site generator that is built on top of Next.js. It is a project that is built using Markdown files.
-
-[//]: # ()
-[//]: # (## 🎥 Showcase)
-
-[//]: # ()
-[//]: # (Feel free to check out some animated previews of my work!)
-
-[//]: # ()
-[//]: # (### Project 1)
-
-[//]: # ()
-[//]: # (![Project 1 Animation]&#40;https://link-to-animated-gif-for-project-1&#41;)
-
-[//]: # ()
-[//]: # (### Project 2)
-
-[//]: # ()
-[//]: # (![Project 2 Animation]&#40;https://link-to-animated-gif-for-project-2&#41;)
-
-## 📫 Connect with Me
-
-Let's connect! You can reach me through:
-
-- [LinkedIn](https://www.linkedin.com/in/riteshrajas/)
-- [Twitter](https://twitter.com/riteshrajas)
-- [Instagram](https://www.instagram.com/riteshrajas/)
-- [Facebook](https://www.facebook.com/riteshrajas)
-- 
-
-Looking forward to collaborating with you! ✨
+</div>
