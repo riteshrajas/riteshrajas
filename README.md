@@ -31,12 +31,6 @@ Local-first CLI and MCP server for converting media files with bundled runtime s
 
 [Repository](https://github.com/riteshrajas/agent-tools)
 
-**AutoDRIVE RoboRacer Simulation**
-
-Autonomous racing work focused on vehicle control, lane detection, trajectory planning, and ROS2 integration.
-
-[Repository](https://github.com/riteshrajas/AutoDRIVE-RoboRacer-Sim-Racing)
-
 ## Stack
 
 **Languages:** Python, C++, TypeScript, JavaScript, C#, Java, Kotlin
