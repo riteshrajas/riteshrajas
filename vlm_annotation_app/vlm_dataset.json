@@ -1,0 +1,9452 @@
+[
+  {
+    "sample_id": "frame_000000",
+    "step": 0,
+    "image_path": "images/frame_000000.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.559,
+        0.007
+      ],
+      [
+        0.767,
+        -0.025
+      ],
+      [
+        0.738,
+        -0.074
+      ],
+      [
+        0.728,
+        -0.093
+      ],
+      [
+        0.744,
+        -0.105
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000010",
+    "step": 10,
+    "image_path": "images/frame_000010.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.209,
+        0.024
+      ],
+      [
+        0.194,
+        -0.031
+      ],
+      [
+        0.189,
+        -0.052
+      ],
+      [
+        0.207,
+        -0.059
+      ],
+      [
+        0.236,
+        -0.074
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000020",
+    "step": 20,
+    "image_path": "images/frame_000020.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.057,
+        0.003
+      ],
+      [
+        0.079,
+        0.005
+      ],
+      [
+        0.08,
+        0.025
+      ],
+      [
+        0.085,
+        0.057
+      ],
+      [
+        0.095,
+        0.09
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000030",
+    "step": 30,
+    "image_path": "images/frame_000030.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.021,
+        -0.005
+      ],
+      [
+        0.029,
+        0.013
+      ],
+      [
+        0.045,
+        0.041
+      ],
+      [
+        0.065,
+        0.069
+      ],
+      [
+        0.061,
+        0.138
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000040",
+    "step": 40,
+    "image_path": "images/frame_000040.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.02,
+        0.001
+      ],
+      [
+        0.052,
+        -0.003
+      ],
+      [
+        0.085,
+        -0.01
+      ],
+      [
+        0.148,
+        0.021
+      ],
+      [
+        0.111,
+        -0.022
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000050",
+    "step": 50,
+    "image_path": "images/frame_000050.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.032,
+        0.001
+      ],
+      [
+        0.067,
+        -0.001
+      ],
+      [
+        0.124,
+        0.039
+      ],
+      [
+        0.094,
+        -0.009
+      ],
+      [
+        -0.073,
+        -0.3
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000060",
+    "step": 60,
+    "image_path": "images/frame_000060.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.033,
+        -0.009
+      ],
+      [
+        0.097,
+        0.019
+      ],
+      [
+        0.058,
+        -0.022
+      ],
+      [
+        -0.161,
+        -0.275
+      ],
+      [
+        -0.549,
+        -0.773
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000070",
+    "step": 70,
+    "image_path": "images/frame_000070.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.07,
+        -0.0
+      ],
+      [
+        0.018,
+        -0.023
+      ],
+      [
+        -0.287,
+        -0.163
+      ],
+      [
+        -0.844,
+        -0.459
+      ],
+      [
+        -1.498,
+        -0.834
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000080",
+    "step": 80,
+    "image_path": "images/frame_000080.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.057,
+        -0.001
+      ],
+      [
+        0.392,
+        0.001
+      ],
+      [
+        1.022,
+        0.04
+      ],
+      [
+        1.772,
+        0.112
+      ],
+      [
+        2.433,
+        0.04
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000090",
+    "step": 90,
+    "image_path": "images/frame_000090.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.335,
+        -0.005
+      ],
+      [
+        0.966,
+        0.02
+      ],
+      [
+        1.717,
+        0.075
+      ],
+      [
+        2.376,
+        -0.012
+      ],
+      [
+        2.973,
+        -0.358
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000100",
+    "step": 100,
+    "image_path": "images/frame_000100.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.631,
+        -0.01
+      ],
+      [
+        1.385,
+        0.005
+      ],
+      [
+        2.038,
+        -0.118
+      ],
+      [
+        2.615,
+        -0.496
+      ],
+      [
+        3.125,
+        -1.08
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000110",
+    "step": 110,
+    "image_path": "images/frame_000110.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.753,
+        0.026
+      ],
+      [
+        1.408,
+        -0.087
+      ],
+      [
+        1.991,
+        -0.456
+      ],
+      [
+        2.51,
+        -1.032
+      ],
+      [
+        2.965,
+        -1.642
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000120",
+    "step": 120,
+    "image_path": "images/frame_000120.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.661,
+        0.067
+      ],
+      [
+        1.322,
+        -0.133
+      ],
+      [
+        1.976,
+        -0.55
+      ],
+      [
+        2.577,
+        -1.016
+      ],
+      [
+        3.071,
+        -1.533
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000130",
+    "step": 130,
+    "image_path": "images/frame_000130.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.688,
+        0.057
+      ],
+      [
+        1.449,
+        -0.089
+      ],
+      [
+        2.18,
+        -0.301
+      ],
+      [
+        2.829,
+        -0.6
+      ],
+      [
+        3.385,
+        -1.086
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000140",
+    "step": 140,
+    "image_path": "images/frame_000140.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.775,
+        0.019
+      ],
+      [
+        1.534,
+        -0.033
+      ],
+      [
+        2.232,
+        -0.187
+      ],
+      [
+        2.878,
+        -0.544
+      ],
+      [
+        3.476,
+        -1.083
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000150",
+    "step": 150,
+    "image_path": "images/frame_000150.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.761,
+        0.021
+      ],
+      [
+        1.47,
+        -0.065
+      ],
+      [
+        2.148,
+        -0.359
+      ],
+      [
+        2.795,
+        -0.838
+      ],
+      [
+        3.373,
+        -1.406
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000160",
+    "step": 160,
+    "image_path": "images/frame_000160.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.713,
+        0.052
+      ],
+      [
+        1.434,
+        -0.105
+      ],
+      [
+        2.161,
+        -0.45
+      ],
+      [
+        2.838,
+        -0.897
+      ],
+      [
+        3.437,
+        -1.364
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000170",
+    "step": 170,
+    "image_path": "images/frame_000170.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.737,
+        0.046
+      ],
+      [
+        1.531,
+        -0.086
+      ],
+      [
+        2.304,
+        -0.33
+      ],
+      [
+        3.009,
+        -0.615
+      ],
+      [
+        3.705,
+        -0.924
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000180",
+    "step": 180,
+    "image_path": "images/frame_000180.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.804,
+        0.031
+      ],
+      [
+        1.611,
+        -0.051
+      ],
+      [
+        2.358,
+        -0.187
+      ],
+      [
+        3.103,
+        -0.349
+      ],
+      [
+        3.863,
+        -0.55
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000190",
+    "step": 190,
+    "image_path": "images/frame_000190.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.81,
+        0.018
+      ],
+      [
+        1.569,
+        -0.026
+      ],
+      [
+        2.328,
+        -0.096
+      ],
+      [
+        3.106,
+        -0.202
+      ],
+      [
+        3.892,
+        -0.367
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000200",
+    "step": 200,
+    "image_path": "images/frame_000200.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.76,
+        0.007
+      ],
+      [
+        1.522,
+        -0.012
+      ],
+      [
+        2.306,
+        -0.066
+      ],
+      [
+        3.1,
+        -0.178
+      ],
+      [
+        3.913,
+        -0.363
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000210",
+    "step": 210,
+    "image_path": "images/frame_000210.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.762,
+        0.009
+      ],
+      [
+        1.547,
+        -0.016
+      ],
+      [
+        2.346,
+        -0.098
+      ],
+      [
+        3.164,
+        -0.253
+      ],
+      [
+        3.973,
+        -0.375
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000220",
+    "step": 220,
+    "image_path": "images/frame_000220.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.785,
+        0.013
+      ],
+      [
+        1.587,
+        -0.032
+      ],
+      [
+        2.412,
+        -0.148
+      ],
+      [
+        3.225,
+        -0.23
+      ],
+      [
+        4.0,
+        -0.145
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000230",
+    "step": 230,
+    "image_path": "images/frame_000230.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.802,
+        0.019
+      ],
+      [
+        1.634,
+        -0.032
+      ],
+      [
+        2.451,
+        -0.05
+      ],
+      [
+        3.217,
+        0.096
+      ],
+      [
+        3.867,
+        0.4
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000240",
+    "step": 240,
+    "image_path": "images/frame_000240.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.833,
+        -0.002
+      ],
+      [
+        1.65,
+        0.026
+      ],
+      [
+        2.406,
+        0.216
+      ],
+      [
+        3.038,
+        0.556
+      ],
+      [
+        3.594,
+        0.923
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000250",
+    "step": 250,
+    "image_path": "images/frame_000250.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.816,
+        -0.04
+      ],
+      [
+        1.586,
+        0.086
+      ],
+      [
+        2.243,
+        0.373
+      ],
+      [
+        2.828,
+        0.691
+      ],
+      [
+        3.448,
+        0.89
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000260",
+    "step": 260,
+    "image_path": "images/frame_000260.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.778,
+        -0.048
+      ],
+      [
+        1.483,
+        0.085
+      ],
+      [
+        2.124,
+        0.266
+      ],
+      [
+        2.772,
+        0.322
+      ],
+      [
+        3.424,
+        0.132
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000270",
+    "step": 270,
+    "image_path": "images/frame_000270.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.717,
+        -0.025
+      ],
+      [
+        1.382,
+        0.011
+      ],
+      [
+        2.026,
+        -0.077
+      ],
+      [
+        2.621,
+        -0.406
+      ],
+      [
+        3.16,
+        -1.012
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000280",
+    "step": 280,
+    "image_path": "images/frame_000280.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.665,
+        0.027
+      ],
+      [
+        1.309,
+        -0.07
+      ],
+      [
+        1.899,
+        -0.407
+      ],
+      [
+        2.43,
+        -1.021
+      ],
+      [
+        2.836,
+        -1.793
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000290",
+    "step": 290,
+    "image_path": "images/frame_000290.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.648,
+        0.058
+      ],
+      [
+        1.301,
+        -0.131
+      ],
+      [
+        1.962,
+        -0.602
+      ],
+      [
+        2.538,
+        -1.257
+      ],
+      [
+        2.982,
+        -1.956
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000300",
+    "step": 300,
+    "image_path": "images/frame_000300.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.677,
+        0.065
+      ],
+      [
+        1.465,
+        -0.131
+      ],
+      [
+        2.242,
+        -0.528
+      ],
+      [
+        2.912,
+        -1.014
+      ],
+      [
+        3.42,
+        -1.549
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000310",
+    "step": 310,
+    "image_path": "images/frame_000310.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.81,
+        0.053
+      ],
+      [
+        1.671,
+        -0.089
+      ],
+      [
+        2.457,
+        -0.349
+      ],
+      [
+        3.104,
+        -0.705
+      ],
+      [
+        3.619,
+        -1.203
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000320",
+    "step": 320,
+    "image_path": "images/frame_000320.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.872,
+        0.034
+      ],
+      [
+        1.694,
+        -0.063
+      ],
+      [
+        2.4,
+        -0.281
+      ],
+      [
+        3.004,
+        -0.665
+      ],
+      [
+        3.503,
+        -1.24
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000330",
+    "step": 330,
+    "image_path": "images/frame_000330.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.827,
+        0.032
+      ],
+      [
+        1.558,
+        -0.074
+      ],
+      [
+        2.214,
+        -0.36
+      ],
+      [
+        2.797,
+        -0.85
+      ],
+      [
+        3.327,
+        -1.466
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000340",
+    "step": 340,
+    "image_path": "images/frame_000340.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.737,
+        0.046
+      ],
+      [
+        1.438,
+        -0.099
+      ],
+      [
+        2.109,
+        -0.46
+      ],
+      [
+        2.754,
+        -0.954
+      ],
+      [
+        3.414,
+        -1.428
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000350",
+    "step": 350,
+    "image_path": "images/frame_000350.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.714,
+        0.055
+      ],
+      [
+        1.458,
+        -0.104
+      ],
+      [
+        2.215,
+        -0.4
+      ],
+      [
+        2.982,
+        -0.671
+      ],
+      [
+        3.793,
+        -0.795
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000360",
+    "step": 360,
+    "image_path": "images/frame_000360.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.76,
+        0.038
+      ],
+      [
+        1.568,
+        -0.051
+      ],
+      [
+        2.379,
+        -0.115
+      ],
+      [
+        3.194,
+        -0.024
+      ],
+      [
+        3.96,
+        0.251
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000370",
+    "step": 370,
+    "image_path": "images/frame_000370.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.812,
+        0.0
+      ],
+      [
+        1.625,
+        0.027
+      ],
+      [
+        2.426,
+        0.206
+      ],
+      [
+        3.156,
+        0.565
+      ],
+      [
+        3.758,
+        1.068
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000380",
+    "step": 380,
+    "image_path": "images/frame_000380.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.812,
+        -0.036
+      ],
+      [
+        1.624,
+        0.083
+      ],
+      [
+        2.38,
+        0.384
+      ],
+      [
+        3.018,
+        0.84
+      ],
+      [
+        3.458,
+        1.443
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000390",
+    "step": 390,
+    "image_path": "images/frame_000390.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.819,
+        -0.048
+      ],
+      [
+        1.62,
+        0.094
+      ],
+      [
+        2.337,
+        0.412
+      ],
+      [
+        2.889,
+        0.913
+      ],
+      [
+        3.294,
+        1.506
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000400",
+    "step": 400,
+    "image_path": "images/frame_000400.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.812,
+        -0.046
+      ],
+      [
+        1.583,
+        0.098
+      ],
+      [
+        2.236,
+        0.458
+      ],
+      [
+        2.767,
+        0.942
+      ],
+      [
+        3.311,
+        1.406
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000410",
+    "step": 410,
+    "image_path": "images/frame_000410.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.782,
+        -0.061
+      ],
+      [
+        1.506,
+        0.118
+      ],
+      [
+        2.144,
+        0.447
+      ],
+      [
+        2.79,
+        0.755
+      ],
+      [
+        3.535,
+        0.855
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000420",
+    "step": 420,
+    "image_path": "images/frame_000420.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.744,
+        -0.05
+      ],
+      [
+        1.452,
+        0.07
+      ],
+      [
+        2.161,
+        0.166
+      ],
+      [
+        2.901,
+        0.035
+      ],
+      [
+        3.637,
+        -0.338
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000430",
+    "step": 430,
+    "image_path": "images/frame_000430.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.718,
+        -0.002
+      ],
+      [
+        1.433,
+        -0.026
+      ],
+      [
+        2.14,
+        -0.28
+      ],
+      [
+        2.803,
+        -0.773
+      ],
+      [
+        3.363,
+        -1.367
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000440",
+    "step": 440,
+    "image_path": "images/frame_000440.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.713,
+        0.052
+      ],
+      [
+        1.444,
+        -0.124
+      ],
+      [
+        2.155,
+        -0.543
+      ],
+      [
+        2.776,
+        -1.073
+      ],
+      [
+        3.321,
+        -1.64
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000450",
+    "step": 450,
+    "image_path": "images/frame_000450.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.749,
+        0.064
+      ],
+      [
+        1.556,
+        -0.107
+      ],
+      [
+        2.313,
+        -0.413
+      ],
+      [
+        3.01,
+        -0.777
+      ],
+      [
+        3.679,
+        -1.143
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000460",
+    "step": 460,
+    "image_path": "images/frame_000460.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.825,
+        0.04
+      ],
+      [
+        1.634,
+        -0.064
+      ],
+      [
+        2.401,
+        -0.24
+      ],
+      [
+        3.141,
+        -0.423
+      ],
+      [
+        3.879,
+        -0.61
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000470",
+    "step": 470,
+    "image_path": "images/frame_000470.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.816,
+        0.022
+      ],
+      [
+        1.601,
+        -0.033
+      ],
+      [
+        2.36,
+        -0.1
+      ],
+      [
+        3.118,
+        -0.17
+      ],
+      [
+        3.831,
+        -0.24
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000480",
+    "step": 480,
+    "image_path": "images/frame_000480.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.786,
+        0.003
+      ],
+      [
+        1.549,
+        -0.008
+      ],
+      [
+        2.31,
+        -0.023
+      ],
+      [
+        3.026,
+        -0.04
+      ],
+      [
+        3.733,
+        -0.05
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000490",
+    "step": 490,
+    "image_path": "images/frame_000490.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.762,
+        0.001
+      ],
+      [
+        1.523,
+        -0.002
+      ],
+      [
+        2.24,
+        -0.008
+      ],
+      [
+        2.947,
+        -0.007
+      ],
+      [
+        3.66,
+        -0.021
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000500",
+    "step": 500,
+    "image_path": "images/frame_000500.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.761,
+        0.002
+      ],
+      [
+        1.478,
+        0.001
+      ],
+      [
+        2.185,
+        0.006
+      ],
+      [
+        2.898,
+        -0.004
+      ],
+      [
+        3.613,
+        -0.082
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000510",
+    "step": 510,
+    "image_path": "images/frame_000510.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.717,
+        -0.002
+      ],
+      [
+        1.424,
+        0.004
+      ],
+      [
+        2.137,
+        -0.007
+      ],
+      [
+        2.852,
+        -0.085
+      ],
+      [
+        3.542,
+        -0.29
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000520",
+    "step": 520,
+    "image_path": "images/frame_000520.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.707,
+        0.003
+      ],
+      [
+        1.42,
+        -0.009
+      ],
+      [
+        2.134,
+        -0.089
+      ],
+      [
+        2.824,
+        -0.296
+      ],
+      [
+        3.447,
+        -0.678
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000530",
+    "step": 530,
+    "image_path": "images/frame_000530.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.713,
+        0.014
+      ],
+      [
+        1.43,
+        -0.04
+      ],
+      [
+        2.127,
+        -0.223
+      ],
+      [
+        2.764,
+        -0.581
+      ],
+      [
+        3.324,
+        -1.076
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000540",
+    "step": 540,
+    "image_path": "images/frame_000540.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.718,
+        0.03
+      ],
+      [
+        1.432,
+        -0.071
+      ],
+      [
+        2.106,
+        -0.353
+      ],
+      [
+        2.719,
+        -0.779
+      ],
+      [
+        3.283,
+        -1.296
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000550",
+    "step": 550,
+    "image_path": "images/frame_000550.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.719,
+        0.047
+      ],
+      [
+        1.436,
+        -0.093
+      ],
+      [
+        2.124,
+        -0.386
+      ],
+      [
+        2.78,
+        -0.777
+      ],
+      [
+        3.477,
+        -1.177
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000560",
+    "step": 560,
+    "image_path": "images/frame_000560.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.729,
+        0.043
+      ],
+      [
+        1.468,
+        -0.07
+      ],
+      [
+        2.201,
+        -0.286
+      ],
+      [
+        2.976,
+        -0.501
+      ],
+      [
+        3.784,
+        -0.555
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000570",
+    "step": 570,
+    "image_path": "images/frame_000570.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.747,
+        0.029
+      ],
+      [
+        1.508,
+        -0.046
+      ],
+      [
+        2.308,
+        -0.11
+      ],
+      [
+        3.113,
+        -0.011
+      ],
+      [
+        3.835,
+        0.308
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000580",
+    "step": 580,
+    "image_path": "images/frame_000580.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.765,
+        0.005
+      ],
+      [
+        1.568,
+        0.023
+      ],
+      [
+        2.358,
+        0.205
+      ],
+      [
+        3.043,
+        0.597
+      ],
+      [
+        3.524,
+        1.209
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000590",
+    "step": 590,
+    "image_path": "images/frame_000590.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.802,
+        -0.039
+      ],
+      [
+        1.603,
+        0.086
+      ],
+      [
+        2.314,
+        0.428
+      ],
+      [
+        2.838,
+        1.004
+      ],
+      [
+        3.157,
+        1.696
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000600",
+    "step": 600,
+    "image_path": "images/frame_000600.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.809,
+        -0.057
+      ],
+      [
+        1.578,
+        0.118
+      ],
+      [
+        2.217,
+        0.563
+      ],
+      [
+        2.682,
+        1.166
+      ],
+      [
+        3.105,
+        1.832
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000610",
+    "step": 610,
+    "image_path": "images/frame_000610.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.786,
+        -0.073
+      ],
+      [
+        1.532,
+        0.15
+      ],
+      [
+        2.161,
+        0.578
+      ],
+      [
+        2.771,
+        1.08
+      ],
+      [
+        3.414,
+        1.467
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000620",
+    "step": 620,
+    "image_path": "images/frame_000620.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.776,
+        -0.063
+      ],
+      [
+        1.518,
+        0.107
+      ],
+      [
+        2.268,
+        0.352
+      ],
+      [
+        3.008,
+        0.478
+      ],
+      [
+        3.692,
+        0.363
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000630",
+    "step": 630,
+    "image_path": "images/frame_000630.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.761,
+        -0.025
+      ],
+      [
+        1.548,
+        0.021
+      ],
+      [
+        2.296,
+        -0.046
+      ],
+      [
+        2.928,
+        -0.332
+      ],
+      [
+        3.436,
+        -0.827
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000640",
+    "step": 640,
+    "image_path": "images/frame_000640.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.788,
+        0.022
+      ],
+      [
+        1.534,
+        -0.068
+      ],
+      [
+        2.156,
+        -0.373
+      ],
+      [
+        2.649,
+        -0.884
+      ],
+      [
+        3.045,
+        -1.529
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000650",
+    "step": 650,
+    "image_path": "images/frame_000650.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.749,
+        0.057
+      ],
+      [
+        1.418,
+        -0.123
+      ],
+      [
+        2.001,
+        -0.528
+      ],
+      [
+        2.514,
+        -1.085
+      ],
+      [
+        3.064,
+        -1.631
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000660",
+    "step": 660,
+    "image_path": "images/frame_000660.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.69,
+        0.062
+      ],
+      [
+        1.376,
+        -0.119
+      ],
+      [
+        2.05,
+        -0.465
+      ],
+      [
+        2.754,
+        -0.79
+      ],
+      [
+        3.476,
+        -0.908
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000670",
+    "step": 670,
+    "image_path": "images/frame_000670.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.708,
+        0.05
+      ],
+      [
+        1.457,
+        -0.06
+      ],
+      [
+        2.228,
+        -0.141
+      ],
+      [
+        2.95,
+        -0.02
+      ],
+      [
+        3.502,
+        0.343
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000680",
+    "step": 680,
+    "image_path": "images/frame_000680.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.757,
+        -0.003
+      ],
+      [
+        1.532,
+        0.028
+      ],
+      [
+        2.229,
+        0.25
+      ],
+      [
+        2.724,
+        0.687
+      ],
+      [
+        3.055,
+        1.245
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000690",
+    "step": 690,
+    "image_path": "images/frame_000690.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.774,
+        -0.045
+      ],
+      [
+        1.49,
+        0.109
+      ],
+      [
+        2.024,
+        0.496
+      ],
+      [
+        2.407,
+        1.019
+      ],
+      [
+        2.805,
+        1.558
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000700",
+    "step": 700,
+    "image_path": "images/frame_000700.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.728,
+        -0.071
+      ],
+      [
+        1.356,
+        0.135
+      ],
+      [
+        1.88,
+        0.517
+      ],
+      [
+        2.422,
+        0.909
+      ],
+      [
+        3.076,
+        1.156
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000710",
+    "step": 710,
+    "image_path": "images/frame_000710.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.658,
+        -0.059
+      ],
+      [
+        1.29,
+        0.084
+      ],
+      [
+        1.944,
+        0.228
+      ],
+      [
+        2.642,
+        0.196
+      ],
+      [
+        3.362,
+        -0.012
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000720",
+    "step": 720,
+    "image_path": "images/frame_000720.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.648,
+        -0.008
+      ],
+      [
+        1.318,
+        -0.02
+      ],
+      [
+        1.989,
+        -0.214
+      ],
+      [
+        2.641,
+        -0.584
+      ],
+      [
+        3.22,
+        -1.052
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000730",
+    "step": 730,
+    "image_path": "images/frame_000730.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.668,
+        0.043
+      ],
+      [
+        1.353,
+        -0.095
+      ],
+      [
+        2.033,
+        -0.411
+      ],
+      [
+        2.648,
+        -0.829
+      ],
+      [
+        3.226,
+        -1.227
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000740",
+    "step": 740,
+    "image_path": "images/frame_000740.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.698,
+        0.041
+      ],
+      [
+        1.436,
+        -0.089
+      ],
+      [
+        2.137,
+        -0.336
+      ],
+      [
+        2.798,
+        -0.574
+      ],
+      [
+        3.489,
+        -0.768
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000750",
+    "step": 750,
+    "image_path": "images/frame_000750.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.748,
+        0.036
+      ],
+      [
+        1.488,
+        -0.048
+      ],
+      [
+        2.184,
+        -0.133
+      ],
+      [
+        2.901,
+        -0.168
+      ],
+      [
+        3.621,
+        -0.141
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000760",
+    "step": 760,
+    "image_path": "images/frame_000760.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.744,
+        0.005
+      ],
+      [
+        1.446,
+        0.004
+      ],
+      [
+        2.162,
+        0.055
+      ],
+      [
+        2.873,
+        0.168
+      ],
+      [
+        3.574,
+        0.319
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000770",
+    "step": 770,
+    "image_path": "images/frame_000770.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.702,
+        -0.013
+      ],
+      [
+        1.419,
+        0.025
+      ],
+      [
+        2.131,
+        0.126
+      ],
+      [
+        2.836,
+        0.263
+      ],
+      [
+        3.542,
+        0.471
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000780",
+    "step": 780,
+    "image_path": "images/frame_000780.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.718,
+        -0.016
+      ],
+      [
+        1.436,
+        0.03
+      ],
+      [
+        2.149,
+        0.114
+      ],
+      [
+        2.868,
+        0.268
+      ],
+      [
+        3.618,
+        0.509
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000790",
+    "step": 790,
+    "image_path": "images/frame_000790.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.72,
+        -0.01
+      ],
+      [
+        1.437,
+        0.018
+      ],
+      [
+        2.166,
+        0.116
+      ],
+      [
+        2.932,
+        0.297
+      ],
+      [
+        3.733,
+        0.479
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000800",
+    "step": 800,
+    "image_path": "images/frame_000800.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.717,
+        -0.015
+      ],
+      [
+        1.451,
+        0.039
+      ],
+      [
+        2.227,
+        0.173
+      ],
+      [
+        3.037,
+        0.307
+      ],
+      [
+        3.62,
+        0.354
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000810",
+    "step": 810,
+    "image_path": "images/frame_000810.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.736,
+        -0.021
+      ],
+      [
+        1.521,
+        0.035
+      ],
+      [
+        2.34,
+        0.086
+      ],
+      [
+        2.925,
+        0.074
+      ],
+      [
+        3.187,
+        0.004
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000820",
+    "step": 820,
+    "image_path": "images/frame_000820.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.787,
+        -0.001
+      ],
+      [
+        1.608,
+        -0.01
+      ],
+      [
+        2.191,
+        -0.064
+      ],
+      [
+        2.447,
+        -0.153
+      ],
+      [
+        2.439,
+        -0.214
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000830",
+    "step": 830,
+    "image_path": "images/frame_000830.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.821,
+        0.012
+      ],
+      [
+        1.404,
+        -0.028
+      ],
+      [
+        1.663,
+        -0.11
+      ],
+      [
+        1.656,
+        -0.172
+      ],
+      [
+        1.665,
+        -0.192
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000840",
+    "step": 840,
+    "image_path": "images/frame_000840.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.585,
+        0.022
+      ],
+      [
+        0.85,
+        -0.033
+      ],
+      [
+        0.85,
+        -0.095
+      ],
+      [
+        0.861,
+        -0.114
+      ],
+      [
+        1.183,
+        -0.129
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000850",
+    "step": 850,
+    "image_path": "images/frame_000850.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.27,
+        0.025
+      ],
+      [
+        0.288,
+        -0.034
+      ],
+      [
+        0.304,
+        -0.049
+      ],
+      [
+        0.617,
+        0.03
+      ],
+      [
+        1.221,
+        0.155
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000860",
+    "step": 860,
+    "image_path": "images/frame_000860.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.057,
+        0.025
+      ],
+      [
+        0.07,
+        0.043
+      ],
+      [
+        -0.045,
+        0.344
+      ],
+      [
+        -0.24,
+        0.929
+      ],
+      [
+        -0.435,
+        1.681
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000870",
+    "step": 870,
+    "image_path": "images/frame_000870.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.015,
+        -0.017
+      ],
+      [
+        0.334,
+        0.026
+      ],
+      [
+        0.948,
+        0.08
+      ],
+      [
+        1.725,
+        0.096
+      ],
+      [
+        2.443,
+        0.033
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000880",
+    "step": 880,
+    "image_path": "images/frame_000880.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.322,
+        0.004
+      ],
+      [
+        0.939,
+        -0.015
+      ],
+      [
+        1.712,
+        -0.093
+      ],
+      [
+        2.417,
+        -0.241
+      ],
+      [
+        3.1,
+        -0.412
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000890",
+    "step": 890,
+    "image_path": "images/frame_000890.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.617,
+        0.01
+      ],
+      [
+        1.393,
+        -0.029
+      ],
+      [
+        2.104,
+        -0.144
+      ],
+      [
+        2.795,
+        -0.281
+      ],
+      [
+        3.477,
+        -0.433
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000900",
+    "step": 900,
+    "image_path": "images/frame_000900.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.777,
+        0.022
+      ],
+      [
+        1.495,
+        -0.034
+      ],
+      [
+        2.194,
+        -0.116
+      ],
+      [
+        2.887,
+        -0.213
+      ],
+      [
+        3.546,
+        -0.425
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000910",
+    "step": 910,
+    "image_path": "images/frame_000910.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.72,
+        0.009
+      ],
+      [
+        1.424,
+        -0.008
+      ],
+      [
+        2.123,
+        -0.041
+      ],
+      [
+        2.798,
+        -0.192
+      ],
+      [
+        3.401,
+        -0.54
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000920",
+    "step": 920,
+    "image_path": "images/frame_000920.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.704,
+        0.001
+      ],
+      [
+        1.403,
+        -0.014
+      ],
+      [
+        2.082,
+        -0.147
+      ],
+      [
+        2.694,
+        -0.48
+      ],
+      [
+        3.155,
+        -1.007
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000930",
+    "step": 930,
+    "image_path": "images/frame_000930.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.699,
+        0.026
+      ],
+      [
+        1.384,
+        -0.068
+      ],
+      [
+        2.015,
+        -0.364
+      ],
+      [
+        2.505,
+        -0.863
+      ],
+      [
+        2.834,
+        -1.487
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000940",
+    "step": 940,
+    "image_path": "images/frame_000940.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.69,
+        0.05
+      ],
+      [
+        1.368,
+        -0.109
+      ],
+      [
+        1.951,
+        -0.496
+      ],
+      [
+        2.402,
+        -1.039
+      ],
+      [
+        2.712,
+        -1.668
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000950",
+    "step": 950,
+    "image_path": "images/frame_000950.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.694,
+        0.061
+      ],
+      [
+        1.369,
+        -0.124
+      ],
+      [
+        1.966,
+        -0.499
+      ],
+      [
+        2.458,
+        -0.999
+      ],
+      [
+        3.009,
+        -1.606
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000960",
+    "step": 960,
+    "image_path": "images/frame_000960.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.698,
+        0.055
+      ],
+      [
+        1.387,
+        -0.096
+      ],
+      [
+        2.019,
+        -0.4
+      ],
+      [
+        2.743,
+        -0.783
+      ],
+      [
+        3.589,
+        -1.086
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000970",
+    "step": 970,
+    "image_path": "images/frame_000970.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.704,
+        0.043
+      ],
+      [
+        1.395,
+        -0.078
+      ],
+      [
+        2.196,
+        -0.251
+      ],
+      [
+        3.092,
+        -0.312
+      ],
+      [
+        3.967,
+        -0.22
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000980",
+    "step": 980,
+    "image_path": "images/frame_000980.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.702,
+        0.015
+      ],
+      [
+        1.521,
+        -0.0
+      ],
+      [
+        2.412,
+        0.112
+      ],
+      [
+        3.252,
+        0.371
+      ],
+      [
+        3.974,
+        0.692
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_000990",
+    "step": 990,
+    "image_path": "images/frame_000990.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.819,
+        -0.028
+      ],
+      [
+        1.712,
+        0.071
+      ],
+      [
+        2.556,
+        0.317
+      ],
+      [
+        3.283,
+        0.625
+      ],
+      [
+        3.878,
+        0.824
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001000",
+    "step": 1000,
+    "image_path": "images/frame_001000.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.898,
+        -0.038
+      ],
+      [
+        1.77,
+        0.076
+      ],
+      [
+        2.535,
+        0.27
+      ],
+      [
+        3.154,
+        0.376
+      ],
+      [
+        3.545,
+        0.394
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001010",
+    "step": 1010,
+    "image_path": "images/frame_001010.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.879,
+        -0.034
+      ],
+      [
+        1.666,
+        0.029
+      ],
+      [
+        2.293,
+        0.029
+      ],
+      [
+        2.682,
+        -0.02
+      ],
+      [
+        2.825,
+        -0.057
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001020",
+    "step": 1020,
+    "image_path": "images/frame_001020.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.789,
+        0.011
+      ],
+      [
+        1.416,
+        -0.03
+      ],
+      [
+        1.801,
+        -0.104
+      ],
+      [
+        1.941,
+        -0.15
+      ],
+      [
+        1.939,
+        -0.15
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001030",
+    "step": 1030,
+    "image_path": "images/frame_001030.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.627,
+        0.016
+      ],
+      [
+        1.017,
+        -0.022
+      ],
+      [
+        1.161,
+        -0.056
+      ],
+      [
+        1.159,
+        -0.055
+      ],
+      [
+        1.15,
+        -0.034
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001040",
+    "step": 1040,
+    "image_path": "images/frame_001040.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.392,
+        0.009
+      ],
+      [
+        0.539,
+        -0.007
+      ],
+      [
+        0.537,
+        -0.007
+      ],
+      [
+        0.525,
+        0.013
+      ],
+      [
+        0.672,
+        0.025
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001050",
+    "step": 1050,
+    "image_path": "images/frame_001050.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.148,
+        0.002
+      ],
+      [
+        0.146,
+        0.002
+      ],
+      [
+        0.132,
+        0.02
+      ],
+      [
+        0.276,
+        0.05
+      ],
+      [
+        0.686,
+        0.073
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001060",
+    "step": 1060,
+    "image_path": "images/frame_001060.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.002,
+        0.001
+      ],
+      [
+        0.023,
+        -0.007
+      ],
+      [
+        -0.081,
+        -0.11
+      ],
+      [
+        -0.412,
+        -0.352
+      ],
+      [
+        -0.795,
+        -0.611
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001070",
+    "step": 1070,
+    "image_path": "images/frame_001070.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.009,
+        0.021
+      ],
+      [
+        0.107,
+        -0.088
+      ],
+      [
+        0.333,
+        -0.43
+      ],
+      [
+        0.573,
+        -0.826
+      ],
+      [
+        0.711,
+        -1.066
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001080",
+    "step": 1080,
+    "image_path": "images/frame_001080.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.147,
+        0.011
+      ],
+      [
+        0.556,
+        -0.021
+      ],
+      [
+        1.015,
+        -0.074
+      ],
+      [
+        1.29,
+        -0.112
+      ],
+      [
+        1.323,
+        -0.103
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001090",
+    "step": 1090,
+    "image_path": "images/frame_001090.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.41,
+        0.005
+      ],
+      [
+        0.872,
+        -0.007
+      ],
+      [
+        1.149,
+        -0.021
+      ],
+      [
+        1.181,
+        -0.009
+      ],
+      [
+        1.207,
+        0.016
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001100",
+    "step": 1100,
+    "image_path": "images/frame_001100.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.462,
+        0.003
+      ],
+      [
+        0.74,
+        -0.002
+      ],
+      [
+        0.771,
+        0.011
+      ],
+      [
+        0.796,
+        0.036
+      ],
+      [
+        0.832,
+        0.063
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001110",
+    "step": 1110,
+    "image_path": "images/frame_001110.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.278,
+        -0.005
+      ],
+      [
+        0.309,
+        0.008
+      ],
+      [
+        0.333,
+        0.034
+      ],
+      [
+        0.37,
+        0.061
+      ],
+      [
+        0.38,
+        0.083
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001120",
+    "step": 1120,
+    "image_path": "images/frame_001120.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.033,
+        -0.008
+      ],
+      [
+        0.068,
+        -0.002
+      ],
+      [
+        0.113,
+        -0.003
+      ],
+      [
+        0.134,
+        0.009
+      ],
+      [
+        0.181,
+        0.009
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001130",
+    "step": 1130,
+    "image_path": "images/frame_001130.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.035,
+        0.003
+      ],
+      [
+        0.08,
+        -0.003
+      ],
+      [
+        0.103,
+        0.007
+      ],
+      [
+        0.149,
+        0.002
+      ],
+      [
+        0.356,
+        -0.184
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001140",
+    "step": 1140,
+    "image_path": "images/frame_001140.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.045,
+        -0.001
+      ],
+      [
+        0.066,
+        0.011
+      ],
+      [
+        0.113,
+        0.011
+      ],
+      [
+        0.338,
+        -0.154
+      ],
+      [
+        0.792,
+        -0.552
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001150",
+    "step": 1150,
+    "image_path": "images/frame_001150.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.024,
+        -0.005
+      ],
+      [
+        0.059,
+        -0.036
+      ],
+      [
+        0.119,
+        -0.308
+      ],
+      [
+        0.198,
+        -0.907
+      ],
+      [
+        0.264,
+        -1.565
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001160",
+    "step": 1160,
+    "image_path": "images/frame_001160.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.043,
+        0.018
+      ],
+      [
+        0.314,
+        -0.044
+      ],
+      [
+        0.89,
+        -0.229
+      ],
+      [
+        1.513,
+        -0.451
+      ],
+      [
+        1.846,
+        -0.57
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001170",
+    "step": 1170,
+    "image_path": "images/frame_001170.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.278,
+        0.01
+      ],
+      [
+        0.882,
+        -0.022
+      ],
+      [
+        1.541,
+        -0.076
+      ],
+      [
+        1.894,
+        -0.106
+      ],
+      [
+        1.968,
+        -0.094
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001180",
+    "step": 1180,
+    "image_path": "images/frame_001180.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.604,
+        0.006
+      ],
+      [
+        1.266,
+        -0.008
+      ],
+      [
+        1.62,
+        -0.016
+      ],
+      [
+        1.693,
+        -0.0
+      ],
+      [
+        1.666,
+        0.024
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001190",
+    "step": 1190,
+    "image_path": "images/frame_001190.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.661,
+        0.002
+      ],
+      [
+        1.015,
+        0.003
+      ],
+      [
+        1.088,
+        0.021
+      ],
+      [
+        1.061,
+        0.045
+      ],
+      [
+        1.052,
+        0.064
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001200",
+    "step": 1200,
+    "image_path": "images/frame_001200.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.354,
+        -0.007
+      ],
+      [
+        0.427,
+        0.009
+      ],
+      [
+        0.401,
+        0.033
+      ],
+      [
+        0.392,
+        0.053
+      ],
+      [
+        0.537,
+        0.042
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001210",
+    "step": 1210,
+    "image_path": "images/frame_001210.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.073,
+        -0.015
+      ],
+      [
+        0.059,
+        0.018
+      ],
+      [
+        0.06,
+        0.039
+      ],
+      [
+        0.188,
+        -0.03
+      ],
+      [
+        0.586,
+        -0.289
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001220",
+    "step": 1220,
+    "image_path": "images/frame_001220.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.035,
+        0.005
+      ],
+      [
+        0.056,
+        -0.001
+      ],
+      [
+        -0.046,
+        -0.106
+      ],
+      [
+        -0.402,
+        -0.42
+      ],
+      [
+        -0.947,
+        -1.014
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001230",
+    "step": 1230,
+    "image_path": "images/frame_001230.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.004,
+        0.021
+      ],
+      [
+        0.118,
+        -0.07
+      ],
+      [
+        0.466,
+        -0.393
+      ],
+      [
+        1.112,
+        -0.876
+      ],
+      [
+        1.868,
+        -1.286
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001240",
+    "step": 1240,
+    "image_path": "images/frame_001240.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.145,
+        0.008
+      ],
+      [
+        0.62,
+        -0.003
+      ],
+      [
+        1.424,
+        0.065
+      ],
+      [
+        2.261,
+        0.261
+      ],
+      [
+        2.917,
+        0.525
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001250",
+    "step": 1250,
+    "image_path": "images/frame_001250.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.475,
+        -0.015
+      ],
+      [
+        1.279,
+        0.045
+      ],
+      [
+        2.118,
+        0.232
+      ],
+      [
+        2.776,
+        0.49
+      ],
+      [
+        3.367,
+        0.72
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001260",
+    "step": 1260,
+    "image_path": "images/frame_001260.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.806,
+        -0.03
+      ],
+      [
+        1.661,
+        0.061
+      ],
+      [
+        2.344,
+        0.244
+      ],
+      [
+        2.957,
+        0.406
+      ],
+      [
+        3.581,
+        0.462
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001270",
+    "step": 1270,
+    "image_path": "images/frame_001270.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.86,
+        -0.032
+      ],
+      [
+        1.561,
+        0.05
+      ],
+      [
+        2.191,
+        0.123
+      ],
+      [
+        2.818,
+        0.089
+      ],
+      [
+        3.516,
+        -0.013
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001280",
+    "step": 1280,
+    "image_path": "images/frame_001280.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.707,
+        -0.007
+      ],
+      [
+        1.341,
+        -0.014
+      ],
+      [
+        1.958,
+        -0.128
+      ],
+      [
+        2.637,
+        -0.317
+      ],
+      [
+        3.348,
+        -0.491
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001290",
+    "step": 1290,
+    "image_path": "images/frame_001290.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.633,
+        0.028
+      ],
+      [
+        1.256,
+        -0.051
+      ],
+      [
+        1.945,
+        -0.203
+      ],
+      [
+        2.664,
+        -0.337
+      ],
+      [
+        3.397,
+        -0.39
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001300",
+    "step": 1300,
+    "image_path": "images/frame_001300.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.627,
+        0.021
+      ],
+      [
+        1.331,
+        -0.019
+      ],
+      [
+        2.062,
+        -0.037
+      ],
+      [
+        2.795,
+        0.027
+      ],
+      [
+        3.487,
+        0.181
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001310",
+    "step": 1310,
+    "image_path": "images/frame_001310.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.705,
+        -0.003
+      ],
+      [
+        1.436,
+        0.017
+      ],
+      [
+        2.165,
+        0.121
+      ],
+      [
+        2.847,
+        0.31
+      ],
+      [
+        3.481,
+        0.545
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001320",
+    "step": 1320,
+    "image_path": "images/frame_001320.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.731,
+        -0.019
+      ],
+      [
+        1.464,
+        0.045
+      ],
+      [
+        2.156,
+        0.198
+      ],
+      [
+        2.802,
+        0.398
+      ],
+      [
+        3.439,
+        0.599
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001330",
+    "step": 1330,
+    "image_path": "images/frame_001330.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.735,
+        -0.025
+      ],
+      [
+        1.44,
+        0.044
+      ],
+      [
+        2.106,
+        0.165
+      ],
+      [
+        2.763,
+        0.288
+      ],
+      [
+        3.421,
+        0.378
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001340",
+    "step": 1340,
+    "image_path": "images/frame_001340.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.708,
+        -0.017
+      ],
+      [
+        1.383,
+        0.023
+      ],
+      [
+        2.051,
+        0.066
+      ],
+      [
+        2.715,
+        0.076
+      ],
+      [
+        3.362,
+        -0.052
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001350",
+    "step": 1350,
+    "image_path": "images/frame_001350.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.676,
+        -0.001
+      ],
+      [
+        1.345,
+        0.002
+      ],
+      [
+        2.008,
+        -0.028
+      ],
+      [
+        2.647,
+        -0.195
+      ],
+      [
+        3.264,
+        -0.595
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001360",
+    "step": 1360,
+    "image_path": "images/frame_001360.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.669,
+        0.007
+      ],
+      [
+        1.332,
+        -0.02
+      ],
+      [
+        1.972,
+        -0.184
+      ],
+      [
+        2.591,
+        -0.58
+      ],
+      [
+        3.217,
+        -1.102
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001370",
+    "step": 1370,
+    "image_path": "images/frame_001370.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.663,
+        0.028
+      ],
+      [
+        1.315,
+        -0.082
+      ],
+      [
+        1.964,
+        -0.425
+      ],
+      [
+        2.631,
+        -0.894
+      ],
+      [
+        3.396,
+        -1.28
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001380",
+    "step": 1380,
+    "image_path": "images/frame_001380.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.658,
+        0.058
+      ],
+      [
+        1.374,
+        -0.109
+      ],
+      [
+        2.137,
+        -0.394
+      ],
+      [
+        2.975,
+        -0.575
+      ],
+      [
+        3.792,
+        -0.522
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001390",
+    "step": 1390,
+    "image_path": "images/frame_001390.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.734,
+        0.034
+      ],
+      [
+        1.547,
+        -0.032
+      ],
+      [
+        2.402,
+        0.023
+      ],
+      [
+        3.173,
+        0.296
+      ],
+      [
+        3.875,
+        0.681
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001400",
+    "step": 1400,
+    "image_path": "images/frame_001400.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.815,
+        -0.022
+      ],
+      [
+        1.666,
+        0.079
+      ],
+      [
+        2.422,
+        0.394
+      ],
+      [
+        3.101,
+        0.816
+      ],
+      [
+        3.683,
+        1.199
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001410",
+    "step": 1410,
+    "image_path": "images/frame_001410.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.855,
+        -0.06
+      ],
+      [
+        1.656,
+        0.108
+      ],
+      [
+        2.403,
+        0.396
+      ],
+      [
+        3.046,
+        0.663
+      ],
+      [
+        3.681,
+        0.879
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001420",
+    "step": 1420,
+    "image_path": "images/frame_001420.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.817,
+        -0.04
+      ],
+      [
+        1.613,
+        0.049
+      ],
+      [
+        2.302,
+        0.144
+      ],
+      [
+        2.971,
+        0.192
+      ],
+      [
+        3.66,
+        0.172
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001430",
+    "step": 1430,
+    "image_path": "images/frame_001430.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.8,
+        -0.007
+      ],
+      [
+        1.496,
+        0.006
+      ],
+      [
+        2.166,
+        -0.026
+      ],
+      [
+        2.847,
+        -0.128
+      ],
+      [
+        3.545,
+        -0.282
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001440",
+    "step": 1440,
+    "image_path": "images/frame_001440.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.696,
+        0.009
+      ],
+      [
+        1.366,
+        -0.026
+      ],
+      [
+        2.047,
+        -0.131
+      ],
+      [
+        2.744,
+        -0.289
+      ],
+      [
+        3.461,
+        -0.464
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001450",
+    "step": 1450,
+    "image_path": "images/frame_001450.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.671,
+        0.017
+      ],
+      [
+        1.357,
+        -0.035
+      ],
+      [
+        2.065,
+        -0.138
+      ],
+      [
+        2.793,
+        -0.257
+      ],
+      [
+        3.523,
+        -0.345
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001460",
+    "step": 1460,
+    "image_path": "images/frame_001460.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.688,
+        0.013
+      ],
+      [
+        1.402,
+        -0.023
+      ],
+      [
+        2.139,
+        -0.072
+      ],
+      [
+        2.873,
+        -0.091
+      ],
+      [
+        3.611,
+        -0.094
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001470",
+    "step": 1470,
+    "image_path": "images/frame_001470.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.715,
+        0.006
+      ],
+      [
+        1.453,
+        -0.001
+      ],
+      [
+        2.187,
+        0.023
+      ],
+      [
+        2.924,
+        0.062
+      ],
+      [
+        3.665,
+        0.12
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001480",
+    "step": 1480,
+    "image_path": "images/frame_001480.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.738,
+        -0.009
+      ],
+      [
+        1.473,
+        0.013
+      ],
+      [
+        2.209,
+        0.051
+      ],
+      [
+        2.951,
+        0.107
+      ],
+      [
+        3.698,
+        0.116
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001490",
+    "step": 1490,
+    "image_path": "images/frame_001490.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.735,
+        -0.003
+      ],
+      [
+        1.472,
+        0.009
+      ],
+      [
+        2.216,
+        0.039
+      ],
+      [
+        2.962,
+        0.023
+      ],
+      [
+        3.685,
+        -0.163
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001500",
+    "step": 1500,
+    "image_path": "images/frame_001500.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.737,
+        -0.004
+      ],
+      [
+        1.481,
+        0.009
+      ],
+      [
+        2.227,
+        -0.025
+      ],
+      [
+        2.946,
+        -0.227
+      ],
+      [
+        3.647,
+        -0.714
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001510",
+    "step": 1510,
+    "image_path": "images/frame_001510.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.744,
+        0.007
+      ],
+      [
+        1.49,
+        -0.034
+      ],
+      [
+        2.206,
+        -0.242
+      ],
+      [
+        2.903,
+        -0.736
+      ],
+      [
+        3.565,
+        -1.35
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001520",
+    "step": 1520,
+    "image_path": "images/frame_001520.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.746,
+        0.038
+      ],
+      [
+        1.48,
+        -0.096
+      ],
+      [
+        2.225,
+        -0.514
+      ],
+      [
+        2.946,
+        -1.056
+      ],
+      [
+        3.64,
+        -1.538
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001530",
+    "step": 1530,
+    "image_path": "images/frame_001530.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.743,
+        0.071
+      ],
+      [
+        1.573,
+        -0.129
+      ],
+      [
+        2.415,
+        -0.454
+      ],
+      [
+        3.213,
+        -0.73
+      ],
+      [
+        3.941,
+        -0.95
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001540",
+    "step": 1540,
+    "image_path": "images/frame_001540.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.854,
+        0.035
+      ],
+      [
+        1.752,
+        -0.046
+      ],
+      [
+        2.595,
+        -0.092
+      ],
+      [
+        3.356,
+        -0.104
+      ],
+      [
+        4.062,
+        -0.256
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001550",
+    "step": 1550,
+    "image_path": "images/frame_001550.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.902,
+        -0.005
+      ],
+      [
+        1.746,
+        0.021
+      ],
+      [
+        2.505,
+        0.073
+      ],
+      [
+        3.221,
+        -0.019
+      ],
+      [
+        3.873,
+        -0.354
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001560",
+    "step": 1560,
+    "image_path": "images/frame_001560.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.844,
+        -0.014
+      ],
+      [
+        1.605,
+        0.002
+      ],
+      [
+        2.316,
+        -0.124
+      ],
+      [
+        2.951,
+        -0.49
+      ],
+      [
+        3.382,
+        -1.127
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001570",
+    "step": 1570,
+    "image_path": "images/frame_001570.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.76,
+        0.031
+      ],
+      [
+        1.473,
+        -0.082
+      ],
+      [
+        2.116,
+        -0.435
+      ],
+      [
+        2.558,
+        -1.064
+      ],
+      [
+        2.747,
+        -1.945
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001580",
+    "step": 1580,
+    "image_path": "images/frame_001580.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.72,
+        0.06
+      ],
+      [
+        1.428,
+        -0.132
+      ],
+      [
+        2.007,
+        -0.638
+      ],
+      [
+        2.398,
+        -1.449
+      ],
+      [
+        2.715,
+        -2.426
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001590",
+    "step": 1590,
+    "image_path": "images/frame_001590.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.729,
+        0.082
+      ],
+      [
+        1.453,
+        -0.176
+      ],
+      [
+        2.115,
+        -0.787
+      ],
+      [
+        2.769,
+        -1.58
+      ],
+      [
+        3.515,
+        -2.229
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001600",
+    "step": 1600,
+    "image_path": "images/frame_001600.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.764,
+        0.089
+      ],
+      [
+        1.628,
+        -0.165
+      ],
+      [
+        2.565,
+        -0.587
+      ],
+      [
+        3.522,
+        -0.838
+      ],
+      [
+        4.386,
+        -0.657
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001610",
+    "step": 1610,
+    "image_path": "images/frame_001610.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.899,
+        0.046
+      ],
+      [
+        1.923,
+        -0.042
+      ],
+      [
+        2.91,
+        0.038
+      ],
+      [
+        3.665,
+        0.495
+      ],
+      [
+        4.045,
+        1.242
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001620",
+    "step": 1620,
+    "image_path": "images/frame_001620.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        1.027,
+        -0.031
+      ],
+      [
+        2.008,
+        0.104
+      ],
+      [
+        2.736,
+        0.603
+      ],
+      [
+        3.074,
+        1.37
+      ],
+      [
+        3.146,
+        1.984
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001630",
+    "step": 1630,
+    "image_path": "images/frame_001630.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.985,
+        -0.095
+      ],
+      [
+        1.809,
+        0.223
+      ],
+      [
+        2.314,
+        0.891
+      ],
+      [
+        2.525,
+        1.472
+      ],
+      [
+        2.555,
+        1.741
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001640",
+    "step": 1640,
+    "image_path": "images/frame_001640.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.873,
+        -0.132
+      ],
+      [
+        1.643,
+        0.198
+      ],
+      [
+        2.114,
+        0.597
+      ],
+      [
+        2.274,
+        0.816
+      ],
+      [
+        2.285,
+        0.835
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001650",
+    "step": 1650,
+    "image_path": "images/frame_001650.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.836,
+        -0.06
+      ],
+      [
+        1.438,
+        0.079
+      ],
+      [
+        1.68,
+        0.201
+      ],
+      [
+        1.699,
+        0.212
+      ],
+      [
+        1.706,
+        0.221
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001660",
+    "step": 1660,
+    "image_path": "images/frame_001660.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.618,
+        -0.027
+      ],
+      [
+        0.883,
+        0.025
+      ],
+      [
+        0.904,
+        0.031
+      ],
+      [
+        0.913,
+        0.037
+      ],
+      [
+        0.758,
+        0.077
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001670",
+    "step": 1670,
+    "image_path": "images/frame_001670.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.271,
+        -0.002
+      ],
+      [
+        0.293,
+        0.0
+      ],
+      [
+        0.303,
+        0.005
+      ],
+      [
+        0.159,
+        0.074
+      ],
+      [
+        -0.045,
+        0.165
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001680",
+    "step": 1680,
+    "image_path": "images/frame_001680.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.022,
+        0.002
+      ],
+      [
+        0.032,
+        0.006
+      ],
+      [
+        -0.112,
+        0.076
+      ],
+      [
+        -0.315,
+        0.168
+      ],
+      [
+        -0.466,
+        0.245
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001690",
+    "step": 1690,
+    "image_path": "images/frame_001690.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        -0.005,
+        -0.01
+      ],
+      [
+        0.152,
+        0.021
+      ],
+      [
+        0.369,
+        0.069
+      ],
+      [
+        0.536,
+        0.099
+      ],
+      [
+        0.57,
+        0.076
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001700",
+    "step": 1700,
+    "image_path": "images/frame_001700.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.16,
+        -0.002
+      ],
+      [
+        0.383,
+        0.002
+      ],
+      [
+        0.552,
+        -0.003
+      ],
+      [
+        0.581,
+        -0.031
+      ],
+      [
+        0.436,
+        -0.005
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001710",
+    "step": 1710,
+    "image_path": "images/frame_001710.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.223,
+        0.002
+      ],
+      [
+        0.392,
+        -0.005
+      ],
+      [
+        0.421,
+        -0.034
+      ],
+      [
+        0.276,
+        -0.006
+      ],
+      [
+        -0.119,
+        0.087
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001720",
+    "step": 1720,
+    "image_path": "images/frame_001720.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.169,
+        0.012
+      ],
+      [
+        0.201,
+        -0.014
+      ],
+      [
+        0.053,
+        -0.002
+      ],
+      [
+        -0.349,
+        0.049
+      ],
+      [
+        -1.024,
+        0.25
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001730",
+    "step": 1730,
+    "image_path": "images/frame_001730.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        -0.01,
+        0.04
+      ],
+      [
+        0.101,
+        -0.058
+      ],
+      [
+        0.392,
+        -0.34
+      ],
+      [
+        0.812,
+        -0.905
+      ],
+      [
+        1.143,
+        -1.68
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001740",
+    "step": 1740,
+    "image_path": "images/frame_001740.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.148,
+        0.003
+      ],
+      [
+        0.553,
+        -0.007
+      ],
+      [
+        1.245,
+        -0.141
+      ],
+      [
+        2.013,
+        -0.488
+      ],
+      [
+        2.75,
+        -1.053
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001750",
+    "step": 1750,
+    "image_path": "images/frame_001750.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.405,
+        0.019
+      ],
+      [
+        1.104,
+        -0.063
+      ],
+      [
+        1.896,
+        -0.353
+      ],
+      [
+        2.673,
+        -0.862
+      ],
+      [
+        3.447,
+        -1.413
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001760",
+    "step": 1760,
+    "image_path": "images/frame_001760.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.703,
+        0.042
+      ],
+      [
+        1.533,
+        -0.105
+      ],
+      [
+        2.387,
+        -0.47
+      ],
+      [
+        3.246,
+        -0.877
+      ],
+      [
+        4.106,
+        -1.186
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001770",
+    "step": 1770,
+    "image_path": "images/frame_001770.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.841,
+        0.058
+      ],
+      [
+        1.758,
+        -0.091
+      ],
+      [
+        2.69,
+        -0.279
+      ],
+      [
+        3.599,
+        -0.372
+      ],
+      [
+        4.513,
+        -0.339
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001780",
+    "step": 1780,
+    "image_path": "images/frame_001780.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.929,
+        0.017
+      ],
+      [
+        1.879,
+        -0.002
+      ],
+      [
+        2.791,
+        0.068
+      ],
+      [
+        3.684,
+        0.262
+      ],
+      [
+        4.535,
+        0.555
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001790",
+    "step": 1790,
+    "image_path": "images/frame_001790.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.95,
+        -0.02
+      ],
+      [
+        1.862,
+        0.049
+      ],
+      [
+        2.755,
+        0.242
+      ],
+      [
+        3.607,
+        0.534
+      ],
+      [
+        4.401,
+        0.93
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001800",
+    "step": 1800,
+    "image_path": "images/frame_001800.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.914,
+        -0.031
+      ],
+      [
+        1.823,
+        0.064
+      ],
+      [
+        2.701,
+        0.262
+      ],
+      [
+        3.533,
+        0.568
+      ],
+      [
+        4.314,
+        1.075
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001810",
+    "step": 1810,
+    "image_path": "images/frame_001810.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.913,
+        -0.028
+      ],
+      [
+        1.811,
+        0.05
+      ],
+      [
+        2.676,
+        0.242
+      ],
+      [
+        3.517,
+        0.64
+      ],
+      [
+        4.279,
+        1.191
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001820",
+    "step": 1820,
+    "image_path": "images/frame_001820.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.9,
+        -0.025
+      ],
+      [
+        1.782,
+        0.068
+      ],
+      [
+        2.663,
+        0.367
+      ],
+      [
+        3.482,
+        0.827
+      ],
+      [
+        4.226,
+        1.358
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001830",
+    "step": 1830,
+    "image_path": "images/frame_001830.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.885,
+        -0.051
+      ],
+      [
+        1.803,
+        0.102
+      ],
+      [
+        2.686,
+        0.424
+      ],
+      [
+        3.505,
+        0.828
+      ],
+      [
+        4.253,
+        1.141
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001840",
+    "step": 1840,
+    "image_path": "images/frame_001840.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.929,
+        -0.045
+      ],
+      [
+        1.86,
+        0.082
+      ],
+      [
+        2.747,
+        0.303
+      ],
+      [
+        3.544,
+        0.45
+      ],
+      [
+        4.332,
+        0.379
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001850",
+    "step": 1850,
+    "image_path": "images/frame_001850.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.939,
+        -0.029
+      ],
+      [
+        1.851,
+        0.041
+      ],
+      [
+        2.661,
+        0.053
+      ],
+      [
+        3.426,
+        -0.148
+      ],
+      [
+        4.181,
+        -0.577
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001860",
+    "step": 1860,
+    "image_path": "images/frame_001860.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.914,
+        0.005
+      ],
+      [
+        1.723,
+        -0.04
+      ],
+      [
+        2.472,
+        -0.295
+      ],
+      [
+        3.195,
+        -0.776
+      ],
+      [
+        3.883,
+        -1.358
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001870",
+    "step": 1870,
+    "image_path": "images/frame_001870.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.809,
+        0.053
+      ],
+      [
+        1.583,
+        -0.11
+      ],
+      [
+        2.358,
+        -0.5
+      ],
+      [
+        3.112,
+        -0.995
+      ],
+      [
+        3.912,
+        -1.4
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001880",
+    "step": 1880,
+    "image_path": "images/frame_001880.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.789,
+        0.056
+      ],
+      [
+        1.642,
+        -0.107
+      ],
+      [
+        2.502,
+        -0.376
+      ],
+      [
+        3.383,
+        -0.547
+      ],
+      [
+        4.243,
+        -0.549
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001890",
+    "step": 1890,
+    "image_path": "images/frame_001890.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.868,
+        0.035
+      ],
+      [
+        1.766,
+        -0.032
+      ],
+      [
+        2.663,
+        0.002
+      ],
+      [
+        3.501,
+        0.195
+      ],
+      [
+        4.322,
+        0.441
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001900",
+    "step": 1900,
+    "image_path": "images/frame_001900.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.901,
+        -0.021
+      ],
+      [
+        1.795,
+        0.059
+      ],
+      [
+        2.622,
+        0.295
+      ],
+      [
+        3.429,
+        0.583
+      ],
+      [
+        4.248,
+        0.708
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001910",
+    "step": 1910,
+    "image_path": "images/frame_001910.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.896,
+        -0.04
+      ],
+      [
+        1.747,
+        0.083
+      ],
+      [
+        2.586,
+        0.26
+      ],
+      [
+        3.415,
+        0.275
+      ],
+      [
+        4.169,
+        0.033
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001920",
+    "step": 1920,
+    "image_path": "images/frame_001920.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.86,
+        -0.024
+      ],
+      [
+        1.716,
+        0.008
+      ],
+      [
+        2.535,
+        -0.119
+      ],
+      [
+        3.237,
+        -0.486
+      ],
+      [
+        3.733,
+        -1.104
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001930",
+    "step": 1930,
+    "image_path": "images/frame_001930.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.857,
+        0.035
+      ],
+      [
+        1.676,
+        -0.089
+      ],
+      [
+        2.379,
+        -0.454
+      ],
+      [
+        2.877,
+        -1.07
+      ],
+      [
+        3.161,
+        -1.829
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001940",
+    "step": 1940,
+    "image_path": "images/frame_001940.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.826,
+        0.06
+      ],
+      [
+        1.593,
+        -0.14
+      ],
+      [
+        2.215,
+        -0.631
+      ],
+      [
+        2.659,
+        -1.309
+      ],
+      [
+        3.118,
+        -2.055
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001950",
+    "step": 1950,
+    "image_path": "images/frame_001950.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.788,
+        0.081
+      ],
+      [
+        1.542,
+        -0.161
+      ],
+      [
+        2.196,
+        -0.639
+      ],
+      [
+        2.888,
+        -1.178
+      ],
+      [
+        3.644,
+        -1.508
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001960",
+    "step": 1960,
+    "image_path": "images/frame_001960.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.789,
+        0.071
+      ],
+      [
+        1.578,
+        -0.114
+      ],
+      [
+        2.424,
+        -0.34
+      ],
+      [
+        3.249,
+        -0.348
+      ],
+      [
+        3.915,
+        -0.017
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001970",
+    "step": 1970,
+    "image_path": "images/frame_001970.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.81,
+        0.014
+      ],
+      [
+        1.686,
+        0.003
+      ],
+      [
+        2.488,
+        0.198
+      ],
+      [
+        3.052,
+        0.683
+      ],
+      [
+        3.387,
+        1.36
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001980",
+    "step": 1980,
+    "image_path": "images/frame_001980.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.875,
+        -0.043
+      ],
+      [
+        1.683,
+        0.121
+      ],
+      [
+        2.265,
+        0.586
+      ],
+      [
+        2.625,
+        1.25
+      ],
+      [
+        2.893,
+        1.989
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_001990",
+    "step": 1990,
+    "image_path": "images/frame_001990.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.82,
+        -0.091
+      ],
+      [
+        1.516,
+        0.173
+      ],
+      [
+        2.062,
+        0.695
+      ],
+      [
+        2.543,
+        1.316
+      ],
+      [
+        3.089,
+        1.961
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002000",
+    "step": 2000,
+    "image_path": "images/frame_002000.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.74,
+        -0.083
+      ],
+      [
+        1.464,
+        0.132
+      ],
+      [
+        2.176,
+        0.465
+      ],
+      [
+        2.955,
+        0.789
+      ],
+      [
+        3.794,
+        1.09
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002010",
+    "step": 2010,
+    "image_path": "images/frame_002010.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.755,
+        -0.038
+      ],
+      [
+        1.537,
+        0.039
+      ],
+      [
+        2.38,
+        0.086
+      ],
+      [
+        3.271,
+        0.091
+      ],
+      [
+        4.138,
+        0.082
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002020",
+    "step": 2020,
+    "image_path": "images/frame_002020.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.786,
+        0.008
+      ],
+      [
+        1.63,
+        -0.021
+      ],
+      [
+        2.518,
+        -0.096
+      ],
+      [
+        3.381,
+        -0.181
+      ],
+      [
+        4.179,
+        -0.311
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002030",
+    "step": 2030,
+    "image_path": "images/frame_002030.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.844,
+        0.013
+      ],
+      [
+        1.735,
+        -0.018
+      ],
+      [
+        2.601,
+        -0.061
+      ],
+      [
+        3.405,
+        -0.151
+      ],
+      [
+        4.16,
+        -0.293
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002040",
+    "step": 2040,
+    "image_path": "images/frame_002040.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.891,
+        0.002
+      ],
+      [
+        1.758,
+        -0.009
+      ],
+      [
+        2.565,
+        -0.069
+      ],
+      [
+        3.324,
+        -0.182
+      ],
+      [
+        4.073,
+        -0.304
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002050",
+    "step": 2050,
+    "image_path": "images/frame_002050.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.867,
+        0.011
+      ],
+      [
+        1.675,
+        -0.029
+      ],
+      [
+        2.437,
+        -0.123
+      ],
+      [
+        3.189,
+        -0.227
+      ],
+      [
+        3.947,
+        -0.345
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002060",
+    "step": 2060,
+    "image_path": "images/frame_002060.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.808,
+        0.017
+      ],
+      [
+        1.576,
+        -0.023
+      ],
+      [
+        2.332,
+        -0.072
+      ],
+      [
+        3.097,
+        -0.137
+      ],
+      [
+        3.833,
+        -0.202
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002070",
+    "step": 2070,
+    "image_path": "images/frame_002070.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.768,
+        0.001
+      ],
+      [
+        1.526,
+        -0.007
+      ],
+      [
+        2.293,
+        -0.031
+      ],
+      [
+        3.032,
+        -0.056
+      ],
+      [
+        3.725,
+        -0.148
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002080",
+    "step": 2080,
+    "image_path": "images/frame_002080.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.758,
+        0.005
+      ],
+      [
+        1.525,
+        -0.004
+      ],
+      [
+        2.265,
+        -0.016
+      ],
+      [
+        2.959,
+        -0.095
+      ],
+      [
+        3.588,
+        -0.316
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002090",
+    "step": 2090,
+    "image_path": "images/frame_002090.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.767,
+        -0.001
+      ],
+      [
+        1.506,
+        -0.004
+      ],
+      [
+        2.202,
+        -0.076
+      ],
+      [
+        2.833,
+        -0.291
+      ],
+      [
+        3.401,
+        -0.688
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002100",
+    "step": 2100,
+    "image_path": "images/frame_002100.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.739,
+        0.015
+      ],
+      [
+        1.436,
+        -0.039
+      ],
+      [
+        2.072,
+        -0.238
+      ],
+      [
+        2.65,
+        -0.621
+      ],
+      [
+        3.179,
+        -1.137
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002110",
+    "step": 2110,
+    "image_path": "images/frame_002110.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.698,
+        0.034
+      ],
+      [
+        1.355,
+        -0.084
+      ],
+      [
+        1.976,
+        -0.392
+      ],
+      [
+        2.565,
+        -0.837
+      ],
+      [
+        3.094,
+        -1.271
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002120",
+    "step": 2120,
+    "image_path": "images/frame_002120.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.665,
+        0.049
+      ],
+      [
+        1.343,
+        -0.095
+      ],
+      [
+        2.025,
+        -0.38
+      ],
+      [
+        2.645,
+        -0.669
+      ],
+      [
+        3.193,
+        -0.939
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002130",
+    "step": 2130,
+    "image_path": "images/frame_002130.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.692,
+        0.039
+      ],
+      [
+        1.425,
+        -0.057
+      ],
+      [
+        2.099,
+        -0.172
+      ],
+      [
+        2.699,
+        -0.289
+      ],
+      [
+        3.288,
+        -0.535
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002140",
+    "step": 2140,
+    "image_path": "images/frame_002140.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.739,
+        0.01
+      ],
+      [
+        1.422,
+        -0.008
+      ],
+      [
+        2.032,
+        -0.037
+      ],
+      [
+        2.651,
+        -0.196
+      ],
+      [
+        3.334,
+        -0.558
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002150",
+    "step": 2150,
+    "image_path": "images/frame_002150.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.684,
+        -0.002
+      ],
+      [
+        1.294,
+        -0.017
+      ],
+      [
+        1.917,
+        -0.162
+      ],
+      [
+        2.608,
+        -0.509
+      ],
+      [
+        3.296,
+        -0.963
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002160",
+    "step": 2160,
+    "image_path": "images/frame_002160.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.61,
+        0.026
+      ],
+      [
+        1.241,
+        -0.076
+      ],
+      [
+        1.954,
+        -0.375
+      ],
+      [
+        2.672,
+        -0.78
+      ],
+      [
+        3.319,
+        -1.186
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002170",
+    "step": 2170,
+    "image_path": "images/frame_002170.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.637,
+        0.045
+      ],
+      [
+        1.4,
+        -0.083
+      ],
+      [
+        2.191,
+        -0.313
+      ],
+      [
+        2.914,
+        -0.56
+      ],
+      [
+        3.554,
+        -0.81
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002180",
+    "step": 2180,
+    "image_path": "images/frame_002180.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.773,
+        0.027
+      ],
+      [
+        1.595,
+        -0.041
+      ],
+      [
+        2.352,
+        -0.138
+      ],
+      [
+        3.029,
+        -0.256
+      ],
+      [
+        3.796,
+        -0.437
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002190",
+    "step": 2190,
+    "image_path": "images/frame_002190.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.824,
+        0.011
+      ],
+      [
+        1.587,
+        -0.013
+      ],
+      [
+        2.273,
+        -0.065
+      ],
+      [
+        3.054,
+        -0.172
+      ],
+      [
+        3.867,
+        -0.333
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002200",
+    "step": 2200,
+    "image_path": "images/frame_002200.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.763,
+        0.005
+      ],
+      [
+        1.45,
+        -0.021
+      ],
+      [
+        2.235,
+        -0.098
+      ],
+      [
+        3.053,
+        -0.228
+      ],
+      [
+        3.856,
+        -0.41
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002210",
+    "step": 2210,
+    "image_path": "images/frame_002210.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.687,
+        0.01
+      ],
+      [
+        1.475,
+        -0.025
+      ],
+      [
+        2.299,
+        -0.111
+      ],
+      [
+        3.111,
+        -0.25
+      ],
+      [
+        3.938,
+        -0.422
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002220",
+    "step": 2220,
+    "image_path": "images/frame_002220.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.788,
+        0.012
+      ],
+      [
+        1.616,
+        -0.026
+      ],
+      [
+        2.435,
+        -0.116
+      ],
+      [
+        3.271,
+        -0.239
+      ],
+      [
+        3.983,
+        -0.348
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002230",
+    "step": 2230,
+    "image_path": "images/frame_002230.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.829,
+        0.015
+      ],
+      [
+        1.651,
+        -0.024
+      ],
+      [
+        2.494,
+        -0.094
+      ],
+      [
+        3.211,
+        -0.159
+      ],
+      [
+        3.594,
+        -0.198
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002240",
+    "step": 2240,
+    "image_path": "images/frame_002240.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.824,
+        0.008
+      ],
+      [
+        1.668,
+        -0.012
+      ],
+      [
+        2.388,
+        -0.035
+      ],
+      [
+        2.773,
+        -0.052
+      ],
+      [
+        2.794,
+        -0.064
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002250",
+    "step": 2250,
+    "image_path": "images/frame_002250.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.845,
+        0.002
+      ],
+      [
+        1.565,
+        -0.001
+      ],
+      [
+        1.95,
+        -0.008
+      ],
+      [
+        1.972,
+        -0.019
+      ],
+      [
+        1.855,
+        -0.031
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002260",
+    "step": 2260,
+    "image_path": "images/frame_002260.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.72,
+        0.002
+      ],
+      [
+        1.105,
+        -0.001
+      ],
+      [
+        1.127,
+        -0.012
+      ],
+      [
+        1.01,
+        -0.025
+      ],
+      [
+        0.964,
+        -0.028
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002270",
+    "step": 2270,
+    "image_path": "images/frame_002270.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.385,
+        0.004
+      ],
+      [
+        0.407,
+        -0.006
+      ],
+      [
+        0.29,
+        -0.022
+      ],
+      [
+        0.244,
+        -0.026
+      ],
+      [
+        0.218,
+        -0.033
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002280",
+    "step": 2280,
+    "image_path": "images/frame_002280.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        -0.015,
+        0.019
+      ],
+      [
+        0.096,
+        -0.018
+      ],
+      [
+        0.14,
+        -0.035
+      ],
+      [
+        0.167,
+        -0.04
+      ],
+      [
+        0.193,
+        -0.044
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002290",
+    "step": 2290,
+    "image_path": "images/frame_002290.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.118,
+        0.001
+      ],
+      [
+        0.164,
+        -0.0
+      ],
+      [
+        0.191,
+        0.003
+      ],
+      [
+        0.218,
+        0.008
+      ],
+      [
+        0.261,
+        0.013
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002300",
+    "step": 2300,
+    "image_path": "images/frame_002300.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.046,
+        -0.002
+      ],
+      [
+        0.073,
+        0.002
+      ],
+      [
+        0.1,
+        0.006
+      ],
+      [
+        0.143,
+        0.011
+      ],
+      [
+        0.195,
+        0.014
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002310",
+    "step": 2310,
+    "image_path": "images/frame_002310.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.027,
+        -0.001
+      ],
+      [
+        0.054,
+        -0.001
+      ],
+      [
+        0.098,
+        -0.004
+      ],
+      [
+        0.15,
+        -0.009
+      ],
+      [
+        0.192,
+        -0.005
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002320",
+    "step": 2320,
+    "image_path": "images/frame_002320.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.027,
+        0.0
+      ],
+      [
+        0.071,
+        -0.002
+      ],
+      [
+        0.122,
+        -0.007
+      ],
+      [
+        0.165,
+        -0.002
+      ],
+      [
+        0.199,
+        0.012
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002330",
+    "step": 2330,
+    "image_path": "images/frame_002330.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.044,
+        0.001
+      ],
+      [
+        0.095,
+        0.0
+      ],
+      [
+        0.138,
+        0.007
+      ],
+      [
+        0.17,
+        0.025
+      ],
+      [
+        0.231,
+        0.039
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002340",
+    "step": 2340,
+    "image_path": "images/frame_002340.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.052,
+        -0.001
+      ],
+      [
+        0.094,
+        0.005
+      ],
+      [
+        0.127,
+        0.022
+      ],
+      [
+        0.188,
+        0.035
+      ],
+      [
+        0.197,
+        0.064
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002350",
+    "step": 2350,
+    "image_path": "images/frame_002350.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.043,
+        -0.003
+      ],
+      [
+        0.078,
+        0.007
+      ],
+      [
+        0.14,
+        0.006
+      ],
+      [
+        0.156,
+        0.033
+      ],
+      [
+        -0.126,
+        0.155
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002360",
+    "step": 2360,
+    "image_path": "images/frame_002360.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.037,
+        0.002
+      ],
+      [
+        0.097,
+        -0.011
+      ],
+      [
+        0.118,
+        0.011
+      ],
+      [
+        -0.133,
+        0.189
+      ],
+      [
+        -0.735,
+        0.497
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002370",
+    "step": 2370,
+    "image_path": "images/frame_002370.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.062,
+        -0.003
+      ],
+      [
+        0.079,
+        0.023
+      ],
+      [
+        -0.199,
+        0.156
+      ],
+      [
+        -0.845,
+        0.358
+      ],
+      [
+        -1.685,
+        0.478
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002380",
+    "step": 2380,
+    "image_path": "images/frame_002380.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.007,
+        -0.03
+      ],
+      [
+        0.296,
+        0.076
+      ],
+      [
+        0.891,
+        0.398
+      ],
+      [
+        1.563,
+        0.917
+      ],
+      [
+        2.023,
+        1.567
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002390",
+    "step": 2390,
+    "image_path": "images/frame_002390.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.307,
+        -0.015
+      ],
+      [
+        0.981,
+        0.048
+      ],
+      [
+        1.802,
+        0.264
+      ],
+      [
+        2.48,
+        0.683
+      ],
+      [
+        3.034,
+        1.221
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002400",
+    "step": 2400,
+    "image_path": "images/frame_002400.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.676,
+        -0.026
+      ],
+      [
+        1.519,
+        0.08
+      ],
+      [
+        2.245,
+        0.406
+      ],
+      [
+        2.866,
+        0.866
+      ],
+      [
+        3.488,
+        1.347
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002410",
+    "step": 2410,
+    "image_path": "images/frame_002410.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.847,
+        -0.061
+      ],
+      [
+        1.623,
+        0.117
+      ],
+      [
+        2.322,
+        0.447
+      ],
+      [
+        3.026,
+        0.797
+      ],
+      [
+        3.776,
+        1.126
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002420",
+    "step": 2420,
+    "image_path": "images/frame_002420.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.795,
+        -0.05
+      ],
+      [
+        1.559,
+        0.068
+      ],
+      [
+        2.333,
+        0.203
+      ],
+      [
+        3.145,
+        0.305
+      ],
+      [
+        3.963,
+        0.449
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002430",
+    "step": 2430,
+    "image_path": "images/frame_002430.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.773,
+        -0.008
+      ],
+      [
+        1.559,
+        -0.0
+      ],
+      [
+        2.377,
+        -0.032
+      ],
+      [
+        3.207,
+        -0.023
+      ],
+      [
+        4.054,
+        0.094
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002440",
+    "step": 2440,
+    "image_path": "images/frame_002440.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.786,
+        0.012
+      ],
+      [
+        1.605,
+        -0.014
+      ],
+      [
+        2.434,
+        0.001
+      ],
+      [
+        3.28,
+        0.123
+      ],
+      [
+        4.111,
+        0.359
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002450",
+    "step": 2450,
+    "image_path": "images/frame_002450.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.819,
+        -0.007
+      ],
+      [
+        1.648,
+        0.026
+      ],
+      [
+        2.491,
+        0.168
+      ],
+      [
+        3.316,
+        0.423
+      ],
+      [
+        4.121,
+        0.782
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002460",
+    "step": 2460,
+    "image_path": "images/frame_002460.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.83,
+        -0.024
+      ],
+      [
+        1.68,
+        0.058
+      ],
+      [
+        2.521,
+        0.256
+      ],
+      [
+        3.349,
+        0.557
+      ],
+      [
+        4.182,
+        1.023
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002470",
+    "step": 2470,
+    "image_path": "images/frame_002470.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.854,
+        -0.031
+      ],
+      [
+        1.714,
+        0.052
+      ],
+      [
+        2.575,
+        0.241
+      ],
+      [
+        3.462,
+        0.591
+      ],
+      [
+        4.21,
+        1.149
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002480",
+    "step": 2480,
+    "image_path": "images/frame_002480.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.864,
+        -0.022
+      ],
+      [
+        1.741,
+        0.06
+      ],
+      [
+        2.664,
+        0.3
+      ],
+      [
+        3.475,
+        0.762
+      ],
+      [
+        3.957,
+        1.225
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002490",
+    "step": 2490,
+    "image_path": "images/frame_002490.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.88,
+        -0.036
+      ],
+      [
+        1.828,
+        0.077
+      ],
+      [
+        2.693,
+        0.427
+      ],
+      [
+        3.232,
+        0.821
+      ],
+      [
+        3.355,
+        1.053
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002500",
+    "step": 2500,
+    "image_path": "images/frame_002500.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.952,
+        -0.065
+      ],
+      [
+        1.868,
+        0.117
+      ],
+      [
+        2.471,
+        0.405
+      ],
+      [
+        2.635,
+        0.609
+      ],
+      [
+        2.557,
+        0.654
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002510",
+    "step": 2510,
+    "image_path": "images/frame_002510.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.932,
+        -0.051
+      ],
+      [
+        1.588,
+        0.077
+      ],
+      [
+        1.797,
+        0.234
+      ],
+      [
+        1.734,
+        0.297
+      ],
+      [
+        1.635,
+        0.286
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002520",
+    "step": 2520,
+    "image_path": "images/frame_002520.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.667,
+        -0.043
+      ],
+      [
+        0.91,
+        0.056
+      ],
+      [
+        0.864,
+        0.133
+      ],
+      [
+        0.766,
+        0.148
+      ],
+      [
+        0.731,
+        0.172
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002530",
+    "step": 2530,
+    "image_path": "images/frame_002530.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.258,
+        -0.046
+      ],
+      [
+        0.261,
+        0.043
+      ],
+      [
+        0.186,
+        0.108
+      ],
+      [
+        0.17,
+        0.147
+      ],
+      [
+        0.165,
+        0.194
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002540",
+    "step": 2540,
+    "image_path": "images/frame_002540.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.084,
+        -0.031
+      ],
+      [
+        0.17,
+        0.019
+      ],
+      [
+        0.212,
+        0.022
+      ],
+      [
+        0.258,
+        0.011
+      ],
+      [
+        0.309,
+        -0.02
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002550",
+    "step": 2550,
+    "image_path": "images/frame_002550.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.099,
+        0.008
+      ],
+      [
+        0.138,
+        -0.008
+      ],
+      [
+        0.175,
+        -0.038
+      ],
+      [
+        0.207,
+        -0.088
+      ],
+      [
+        0.207,
+        -0.088
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002560",
+    "step": 2560,
+    "image_path": "images/frame_002560.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.042,
+        0.002
+      ],
+      [
+        0.089,
+        -0.008
+      ],
+      [
+        0.139,
+        -0.039
+      ],
+      [
+        0.139,
+        -0.039
+      ],
+      [
+        0.139,
+        -0.039
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002570",
+    "step": 2570,
+    "image_path": "images/frame_002570.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.047,
+        0.005
+      ],
+      [
+        0.105,
+        -0.008
+      ],
+      [
+        0.105,
+        -0.008
+      ],
+      [
+        0.105,
+        -0.008
+      ],
+      [
+        0.105,
+        -0.008
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002580",
+    "step": 2580,
+    "image_path": "images/frame_002580.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.06,
+        -0.0
+      ],
+      [
+        0.06,
+        -0.0
+      ],
+      [
+        0.06,
+        -0.0
+      ],
+      [
+        0.06,
+        -0.0
+      ],
+      [
+        0.06,
+        -0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002590",
+    "step": 2590,
+    "image_path": "images/frame_002590.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002600",
+    "step": 2600,
+    "image_path": "images/frame_002600.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002610",
+    "step": 2610,
+    "image_path": "images/frame_002610.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002620",
+    "step": 2620,
+    "image_path": "images/frame_002620.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002630",
+    "step": 2630,
+    "image_path": "images/frame_002630.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002640",
+    "step": 2640,
+    "image_path": "images/frame_002640.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002650",
+    "step": 2650,
+    "image_path": "images/frame_002650.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002660",
+    "step": 2660,
+    "image_path": "images/frame_002660.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002670",
+    "step": 2670,
+    "image_path": "images/frame_002670.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002680",
+    "step": 2680,
+    "image_path": "images/frame_002680.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  },
+  {
+    "sample_id": "frame_002690",
+    "step": 2690,
+    "image_path": "images/frame_002690.jpg",
+    "prompt": "Drive safely",
+    "waypoints": [
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0
+      ]
+    ],
+    "telemetry": {
+      "vio_x": 0.0,
+      "vio_y": 0.0,
+      "vio_yaw": 0.0,
+      "steering": 0.0,
+      "throttle": 0.0
+    }
+  }
+]
